@@ -13,7 +13,7 @@ description: A podcast by timakin and k0kubun, talking about technology, busines
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "ja"
 url: "https://bootfm.github.io" # the base hostname & protocol for your site
-twitter_username: bootfm
+twitter_username: boot_fm
 github_username:  bootfm
 disqus_username:
 actors:
