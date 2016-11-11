@@ -25,6 +25,11 @@ actors:
     image_url: /images/profile/k0kubun.png
     name: k0kubun
     url: https://twitter.com/k0kubun
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
 
 # Build settings
 markdown: kramdown
