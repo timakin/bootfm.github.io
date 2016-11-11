@@ -8,7 +8,7 @@
 # Site settings
 title: boot.fm
 email: timaki.st@gmail.com
-description: Tech系podcast、boot.fmのページです。
+description: A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "ja"
 url: "https://bootfm.github.io" # the base hostname & protocol for your site
