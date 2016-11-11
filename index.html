@@ -8,7 +8,7 @@ summary: "A podcast by timakin and k0kubun, talking about technology, business n
 
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="{{ post.url }}">Vol.{{ post.volume }}: {{ post.title }}</a></h2>
     <p>{{ post.description }}</p>
   </article>
 {% endfor %}
