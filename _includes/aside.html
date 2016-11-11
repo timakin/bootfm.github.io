@@ -8,7 +8,9 @@
 
     <div class="cover-text">
       <div class="heading">
-        <a href="{{ post.url }}">Vol.{{ page.volume }}: {{ page.title }}</a>
+        {% if page.volume %}
+          <a href="{{ post.url }}">Vol.{{ page.volume }}: {{ page.title }}</a>
+        {% endif %}
       </div>
 
       <p>
