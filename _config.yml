@@ -15,6 +15,15 @@ url: "https://bootfm.github.io" # the base hostname & protocol for your site
 twitter_username: bootfm
 github_username:  bootfm
 disqus_username:
+actors:
+  timakin:
+    image_url: /assets/images/profile/timakin.jpg
+    name: timakin
+    url: https://twitter.com/__timakin__
+  k0kubun:
+    image_url: image_url: /assets/images/profile/k0kubun.png
+    name: k0kubun
+    url: https://twitter.com/k0kubun
 
 # Build settings
 markdown: kramdown
