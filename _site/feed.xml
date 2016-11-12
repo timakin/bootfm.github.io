@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="">
+  <channel>
+    <atom:link href="https://bootfm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://bootfm.github.io</link>
+    <title>boot.fm</title>
+    <description>A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...</description>
+    <media:keywords></media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language></language>
+    <itunes:subtitle>A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...</itunes:subtitle>
+    <itunes:author></itunes:author>
+    <itunes:summary>A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...</itunes:summary>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>timaki.st@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bootfm.github.io/images/main.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>Market value of hackers</title>
+        <link>https://bootfm.github.io/posts/vol1/</link>
+        <pubDate>Sat, 12 Nov 2016 22:09:47 +0900</pubDate>
+        <description>&lt;h2 id=&quot;section&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://job-draft.jp&quot;&gt;転職ドラフト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/timakin/ts&quot;&gt;timakin/ts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/k0kubun/mitamae&quot;&gt;k0kubun/mitamae&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://roppongirb.connpass.com/event/42633/&quot;&gt;Roppongi.rb #2 Infrastructure x Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://k0kubun.hatenablog.com/entry/2016/07/26/040124&quot;&gt;RubyなしでItamaeレシピを実行できる「itamae-go」を作った&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anicobin.ldblog.jp/archives/49915117.html&quot;&gt;【響け!ユーフォニアム2】第5話 感想 12分ノーカット！涙あり、セリフ無し！【2期】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://bootfm.github.io/posts/vol1/</guid>
+        <enclosure url="https://bootfm.github.io/audio/2016-11-12.mp3" length="84605096" type="audio/mp3"/>
+        <itunes:author></itunes:author>
+        <itunes:subtitle>timakinとk0kubunが、転職ドラフト、feedlyでの情報収集、海外ニュースサイト、mitamae、mruby、今期アニメについて話しました。一回目収録の前半です。</itunes:subtitle>
+        <itunes:duration></itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://bootfm.github.io/images/2016-11-12.jpg"/>
+      </item>
+    
+  </channel>
+</rss>
